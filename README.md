@@ -24,7 +24,7 @@
 
 ## 📊 Featured Projects | Projets à la Une
 
-### 🛡️ [Case Study: Analyzing a DDoS Attack Scenario](https://github.com/abunoman-cyber/Google-Cybersecurity-Professional-Certificate/blob/main/Scenarios-Analysis-DDoS.md)
+### 🛡️ [Case Study: Analyzing a DDoS Attack Scenario](https://github.com/abunoman-cyber/Google-Cybersecurity-Professional-Certificate/blob/main/Scenario-Analysis-DDoS.md)
 * **EN:** Investigated an e-commerce outage by correlating Firewall and Server logs to identify a DDoS attack.
 * **FR :** Investigation d'une panne e-commerce en corrélant les logs pare-feu et serveur pour identifier une attaque DDoS.
 
