@@ -1,5 +1,5 @@
 # Hi, I'm Abu Noman | Salut, je suis Abu Noman 👋 🛡️
-### Cybersecurity Enthusiast | Passionné de Cybersécurité 🇫🇷
+### Cybersecurity Enthusiast | Focus: EU & Global Markets 🌍
 
 ---
 
@@ -17,18 +17,18 @@
 * **SIEM:** Splunk Enterprise, Google Chronicle
 * **Frameworks:** NIST CSF, CIA Triad
 * **Core Skills:** Log Analysis, Threat Detection, DDoS Mitigation, Vulnerability Assessment
-* **Operating Systems:** Linux (Command Line), Windows Security
+* **OS:** Linux (CLI), Windows Security
 * **Languages:** English (Professional), Français (Learning), Bengali (Native)
 
 ---
 
 ## 📊 Featured Projects | Projets à la Une
 
-### 🛡️ [Case Study: Analyzing a DDoS Attack Scenario](https://github.com/abunoman-cyber/Google-Cybersecurity-Professional-Certificate/blob/main/Scenario-Analysis-DDoS.md)
+### 🛡️ [Case Study: Analyzing a DDoS Attack Scenario](https://github.com/abunoman-cyber/Google-Cybersecurity-Professional-Certificate/blob/main/Course-2-Security-Risks/Scenario-Analysis-DDoS.md)
 Investigation of an e-commerce outage by correlating Firewall and Server logs to identify a DDoS attack.
 
-### 🔍 [Technical: SIEM Dashboards & Log Management](https://github.com/abunoman-cyber/Google-Cybersecurity-Professional-Certificate/blob/main/SIEM-Concepts.md)
-Deep dive into Splunk (Risk Analysis) and Chronicle (IOC Matches) for real-time monitoring and event analysis.
+### 🔍 [Technical: SIEM Dashboards & Log Management](https://github.com/abunoman-cyber/Google-Cybersecurity-Professional-Certificate/blob/main/Course-2-Security-Risks/SIEM-Concepts.md)
+Deep dive into Splunk and Google Chronicle for real-time monitoring and event analysis.
 
 ---
 
