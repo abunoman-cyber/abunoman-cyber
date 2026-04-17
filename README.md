@@ -35,8 +35,9 @@ Deep dive into Splunk and Google Chronicle for real-time monitoring and event an
 ## 🎓 Learning Journey | Mon Parcours
 
 * 📁 **Main Repo:** [Google Cybersecurity Professional Certificate](https://github.com/abunoman-cyber/Google-Cybersecurity-Professional-Certificate)
-* **Status:** Course 2: Manage Security Risks - **Completed ✅**
-* **Next Goal:** Course 3: Connect and Protect: Networks and Network Security 🚀
+* **Status:** Course 3: Connect and Protect: Networks and Network Security - **In Progress 🚀**
+* **Current Focus:** Networking Protocols, OSI & TCP/IP Models, and Network Security Analysis.
+* **Next Goal:** Completing Course 3 and moving into Python for Cybersecurity 🛡️
 
 ---
 
