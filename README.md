@@ -18,7 +18,7 @@
 * **Frameworks:** NIST CSF, CIA Triad
 * **Core Skills:** Log Analysis, Threat Detection, DDoS Mitigation, Vulnerability Assessment
 * **OS:** Linux (CLI), Windows Security
-* **Languages:** English (Professional), Français (Learning), Bengali (Native)
+* **Languages:** English (Professional), Français (Niveau B1), Bengali (Native)
 
 ---
 
